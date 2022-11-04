@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tayalsaksham008
 - 👀 I’m interested in playing badminton
-- 🌱 I’m currently learning c language
-- 💞️ I’m looking to collaborate on learning more about c
+- 🌱 I’m currently learning java language
+- 💞️ I’m looking to collaborate on learning more about web development projects.
 - 📫 How to reach me. -My mail id is tayalsaksham009@gmail.com
 
 <!---
