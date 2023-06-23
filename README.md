@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tayalsaksham008
-- 👀 I’m interested in playing badminton
-- 🌱 I’m currently learning java language
+- 👀 I’m interested in learning more about web development.
+- 🌱 I’m currently learning more about web development.
 - 💞️ I’m looking to collaborate on learning more about web development projects.
 - 📫 How to reach me. -My mail id is tayalsaksham009@gmail.com
 
